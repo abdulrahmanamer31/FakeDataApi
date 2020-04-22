@@ -1,0 +1,30 @@
+{  "city": [
+    {
+      "id": 1,
+       "patrol": 5,
+  
+      "Name": "Madagascar"
+    },
+    {
+      "id": 2,
+      "patrol": 10,
+      "Name": "Cairo"
+    },
+    {
+      "id": 3,
+      "patrol": 15,
+      "Name": "Somal"
+    },
+    {
+      "id": 4,
+      "patrol": 20,
+      "Name": "Cotedivor"
+    },
+     {
+      "id": 5,
+      "patrol": 25,
+      "Name": "Newzealand"
+    }
+
+  ]
+}
